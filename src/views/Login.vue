@@ -4,7 +4,7 @@ const mainStore = useMainStore()
 </script>
 
 <template>
-  <h1>Login{{ mainStore.name }}</h1>
+  <h1>Login{{ mainStore.name }}zzzzzzzzzzzzz</h1>
   <n-button type="tertiary"> Tertiary </n-button>
 </template>
 
